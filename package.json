@@ -1,0 +1,23 @@
+{
+  "name": "astro-svelte-tailwind-boilerplate",
+  "version": "0.0.1",
+  "keywords": [
+    "boilerplate",
+    "astro",
+    "tailwind",
+    "svelte",
+    "starter",
+    "bootstrap"
+  ],
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "devDependencies": {
+    "@astrojs/renderer-svelte": "^0.1.2",
+    "astro": "^0.20.11",
+    "tailwindcss": "^2.2.17"
+  }
+}
