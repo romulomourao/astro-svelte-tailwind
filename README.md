@@ -1,10 +1,11 @@
 # Astro + Svelte + Tailwind | Starter Kit
 
+![](screenshot.png)
 ### Dependencies
 
 - Node >= 14.14.0
 
-`npx degit romulomourao/astro-svelte-tailwind#main`
+Run: `npx degit romulomourao/astro-svelte-tailwind#main`
 
 | Command         | Action                                      |
 |:----------------|:--------------------------------------------|
